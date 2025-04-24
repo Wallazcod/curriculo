@@ -461,6 +461,7 @@ footer .line-footer p a{
     visibility: hidden;
     transition: 0.5s;
     overflow: hidden;
+    z-index: 10;
 }
 
 .menu-mobile nav li{
